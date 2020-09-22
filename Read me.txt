@@ -1,0 +1,18 @@
+Pack a lot of Images into a STANDALONE EXECUTABLE file and see the Slide Show with Fade Transition and Full Screen features.
+JPEG images are advisable.
+The Slide Show program is built-in as Resource into the Main program, if you want make any modification compile it and create a new CUSTTOM resource using the new executable file.
+In this version for Windows XP, the Fade is compatible with ON-BOARD Video Cards and you can change the Fade Parameters.
+
+Using the Slide Show
+- Press ESC key to EXIT
+- Press CTRL to Preferences Window
+- Double Click to Screen Mode Resizable/Full Screen
+- Press F1 ... F5 to change FRAME type
+
+News in the Version 2
+- Five static Frames. The fade run inside of the transparent area of the frame
+- The Resize feature was improved to show the image in real time
+
+
+
+  
